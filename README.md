@@ -1,5 +1,8 @@
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/91/96/c4/9196c40150be4506abbf119b789b5e84.gif" width="100%">
+</p>
+ <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=techymudi&show_icons=true&locale=en&layout=compact" alt="techymudi" />
 </p>
 
 <h1 align="center">Hi There, I'm TCM 👋</h1>
@@ -37,4 +40,6 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
+ 
 </p>
+
