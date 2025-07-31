@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/91/96/c4/9196c40150be4506abbf119b789b5e84.gif" width="100%">
+</p>
+
+<h1 align="center">Hi there, I'm TCM 👋</h1>
+
+<p align="center">
+  🎓 Software Engineering Student at Daffodil International University <br>
+  💻 Passionate about clean code, problem solving <br>
+  📊 Currently exploring Data Science, Machine Learning <br>
+  ⚡ Fun Fact: I enjoy turning complex logic into elegant solutions
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
