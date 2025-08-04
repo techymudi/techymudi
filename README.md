@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/91/96/c4/9196c40150be4506abbf119b789b5e84.gif" width="100%">
 </p>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techymudi&layout=compact&langs_count=10" />
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techymudi&layout=compact&langs_count=8" />
 </p>
 
 <h1 align="center">Hi There, I'm TCM 👋</h1>
