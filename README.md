@@ -42,11 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techymudi&layout=compact&langs_count=10&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techymudi&layout=compact&langs_count=10&hide=html,css" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techymudi&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techymudi&" alt="GitHub Streak" />
